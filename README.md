@@ -41,3 +41,4 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Free Code Camp
+- [Uzair Ali](https://github.com/uzairali19/elmar-uzair)
