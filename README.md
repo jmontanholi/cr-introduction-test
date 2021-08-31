@@ -21,6 +21,15 @@ You will need the following:
 - Github Account
 - Code editor
 - Browser
+- Commandline
+
+### Installation
+
+To get this repository locally installed please use this command in your commandline
+
+`git clone git@github.com:jmontanholi/cr-introduction-test.git`
+
+And to see the project up please open your index.html file on the browser of your preference!
 
 👤 **João Vítor Montanholi Nunes**
 
